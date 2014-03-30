@@ -1,0 +1,15 @@
+{
+    "name": "gfn",
+    "description": "Module to create a graph in node and output it as a .dot file to be used with graphviz.",
+    "author": "Nikolas Poniros <nikolas@poniros.de>",
+    "version": "0.0.1",
+    "dependencies": {},
+    "devDependencies": {},
+    "directories": {
+        "lib": "./lib"
+    },
+    "main": "main",
+    "keywords": ["graphviz", "dot", "graph"],
+    "engine": "node >= 0.6.6",
+    "private": true
+}

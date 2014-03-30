@@ -1,0 +1,23 @@
+{
+    "smarttabs": true,
+    "forin": true,
+    "immed": true,
+    "bitwise": true,
+    "quotmark": "single",
+    "eqnull": true,
+    "undef": true,
+    "noarg": true,
+    "curly": true,
+    "eqeqeq": true,
+    "latedef": "nofunc",
+    "newcap": true,
+    "nonew": true,
+    "globalstrict": true,
+    "noempty": true,
+    "regexp": true,
+    "trailing": true,
+    "strict": true,
+    "indent": 4,
+    "node": true,
+    "unused": true
+}
