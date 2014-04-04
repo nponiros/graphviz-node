@@ -19,5 +19,9 @@
     "strict": true,
     "indent": 4,
     "node": true,
-    "unused": true
+    "unused": true,
+    "globals": {
+        "describe": false,
+        "it": false
+    }
 }
