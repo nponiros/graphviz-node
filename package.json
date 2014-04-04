@@ -4,12 +4,18 @@
     "author": "Nikolas Poniros <nikolas@poniros.de>",
     "version": "0.0.1",
     "dependencies": {},
-    "devDependencies": {},
+    "devDependencies": {
+        "mocha":  "1.18.2",
+        "jshint": "2.5.0"
+    },
     "directories": {
         "lib": "./lib"
     },
+    "scripts": {
+        "test": "make jshint && make test"
+    },
     "main": "main",
     "keywords": ["graphviz", "dot", "graph"],
-    "engine": "node >= 0.6.6",
+    "engine": "node >= 0.10.0",
     "private": true
 }
